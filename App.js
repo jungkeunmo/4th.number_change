@@ -2,7 +2,7 @@ import React from "react";
 import { View, StyleSheet, Text } from "react-native";
 
 const App = () => {
-  return <View></View>;
+  return <Text>number</Text>;
 };
 
 export default App;
